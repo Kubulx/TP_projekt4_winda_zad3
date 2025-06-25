@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+C:\Users\ASUS ExpertBook\OneDrive\Pulpit\projekt_wersja2\WindowsProject1\WindowsProject1.cpp(404,39): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\ASUS ExpertBook\OneDrive\Pulpit\projekt_wersja2\WindowsProject1\WindowsProject1.cpp(535,13): warning C4312: "typ rzutowania": konwersja z "int" na "HMENU" jest większej wielkości
+  WindowsProject1.vcxproj -> C:\Users\ASUS ExpertBook\OneDrive\Pulpit\projekt_wersja2\WindowsProject1\x64\Debug\WindowsProject1.exe
